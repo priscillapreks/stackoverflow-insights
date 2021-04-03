@@ -3,17 +3,16 @@
 
 **Stack Overflow Developer Survey 2020**
 
-O 2020 Annual Developer Survey avalia todos os aspectos da experiência de um desenvolvedor, desde a eduação até a busca de emprego e satisfação na carreira. Cerca de 65 mil desenvolvedores, de 180 países, participaram da pesquisa, que foi realizada entre os dias 5 e 28 de fevereiro de 2020.    
+The 2020 Annual Developer Survey assesses all aspects of a developer's experience, from education to job search and career satisfaction. About 65,000 developers from 180 countries participated in the survey, which took place between February 5 and 28, 2020.    
 
-O objetivo da análise foi extrair insights sobre a **carreira na tecnologia**, portanto, foram analisados somente os dados dos participantes que declararam atuar profissionalmente na área ('I am a developer by profession').    
+The purpose of the analysis was to extract insights about the ** career in technology **, therefore, only the data of the participants who declared to work professionally in the area ('I am a developer by profession') were analyzed.    
 
 
-**Análise exploratória:**    
-* Perfil dos Desenvolvedores
-* Tecnologias utilizadas
-* Salários (comparação por países)
-* Fatores de Satisfação no Trabalho    
-    
-
-   
-Fonte dos dados: [Stack Overflow Insights](https://insights.stackoverflow.com/survey)
+**Exploratory analysis:**    
+* Developer Profile
+* Technologies used
+* Salary (comparison by countries)
+* Job Satisfaction Factors 
+ 
+ 
+Data source: [Stack Overflow Insights](https://insights.stackoverflow.com/survey)
