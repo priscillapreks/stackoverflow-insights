@@ -7,7 +7,6 @@ The 2020 Annual Developer Survey assesses all aspects of a developer's experienc
 
 The purpose of the analysis was to extract insights about the **career in technology**, therefore, only the data of the participants who declared to work professionally in the area ('I am a developer by profession') were analyzed.    
 
-Data from [Stack Overflow Insights](https://insights.stackoverflow.com/survey)    
 
 
 ## Job Satisfaction    
@@ -30,5 +29,6 @@ Check out the main insights in [this post on Medium](https://priscillapreks.medi
     
 ---
     
- 
+Data source: [Stack Overflow Insights](https://insights.stackoverflow.com/survey)    
+
 
