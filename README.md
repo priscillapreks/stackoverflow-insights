@@ -21,6 +21,7 @@ For this project, I was interestested in using Stack Overflow data to better und
 Check out the main insights in [this post on Medium](https://priscillapreks.medium.com/what-attracts-and-retains-developers-in-a-company-its-not-just-about-the-salary-4ea7b8f52bcf).    
 
 <br>
+
 ## Dev Insights 2020 
 * Developers Profile
 * Technologies used
